@@ -1,0 +1,39 @@
+What is Generative AI?
+Generative AI is a type of Artificial Intelligence (AI) that doesn’t just think — it can create new things! This means it can generate things like text, pictures, videos, and music.
+
+Features of Generative AI:
+Creativity: Generative AI uses the knowledge it has learned to make new things. For example, if you say “I want a story,” it will create a brand-new story just for you.
+
+Learning from Data: It has looked at millions of examples. If you want a picture, it uses everything it has learned from other pictures to create a new one.
+
+Custom Creations: You can tell it exactly what you want, and it will create something special. For example, you can say, “Make a video of a dancing robot,” and it will create something new and unique.
+
+Examples of Generative AI:
+ChatGPT: This is an example of Generative AI. When you ask a question, it creates a new answer using its knowledge.
+
+DALL·E: Another example — it can create images. If you say, “A monkey playing guitar,” it can draw a brand-new image like that.
+
+How Does Generative AI Work?
+Generative AI learns from training data, which includes:
+
+Pictures (photos, drawings)
+
+Text (books, blogs, articles)
+
+Sounds (music, voice clips)
+
+When you ask for something, it remembers what it has learned and creates something new based on that. Every time, it combines ideas in a fresh way to make a unique result.
+
+Where is Generative AI Used?
+Art and Design – Helps artists create pictures and designs.
+
+Writing – Helps writers make stories, books, and articles.
+
+Music Creation – Helps musicians make new songs and tunes.
+
+Movies and Animation – Helps make characters, scenes, and animations.
+
+Chatbots – Helps websites talk to users like a smart helper.
+
+Conclusion:
+Generative AI is a creative tool that not only thinks but also makes new things. It helps us do our work faster, better, and in fun new ways.
