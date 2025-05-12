@@ -128,9 +128,7 @@ yaml
 Copy
 Edit
 
----
 
-Aap is content ko copy karke apne folder mein `README.md` naam se ek file bana kar paste kar dijiye. Agar diagram bhi chahiye to main bana kar de sakta hoon — bas bata dijiye.
 
 
 
